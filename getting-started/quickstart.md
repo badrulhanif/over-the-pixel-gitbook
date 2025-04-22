@@ -4,7 +4,7 @@ icon: browsers
 
 # Quickstart
 
-<figure><img src="../.gitbook/assets/quickstart - uiux.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/quickstart - uiux.png" alt=""><figcaption><p>UI UX In General</p></figcaption></figure>
 
 Let’s keep it simple.
 
@@ -27,7 +27,7 @@ Still not sure how UI and UX are different? We break it down clearly in [this se
 
 Design isn’t just about how something looks or even how it feels — it’s about solving real problems for real people. That’s where Design Thinking comes in.
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/quickstart - design thinking.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/quickstart - design thinking.png" alt=""><figcaption><p>Design Thinking In General</p></figcaption></figure></div>
 
 It’s a mindset that helps designers create meaningful, user-centered experiences by focusing on people — not just pixels.
 

@@ -4,7 +4,7 @@ icon: figma
 
 # Intro to Figma
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figma Website</p></figcaption></figure>
 
 > [https://www.figma.com/](https://www.figma.com/)
 

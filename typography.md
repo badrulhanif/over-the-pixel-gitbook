@@ -22,7 +22,7 @@ From the boldness of a headline to the subtlety of body text, typography influen
 * **Script:** Decorative, handwriting-like fonts (e.g., Pacifico). Used sparingly for logos or headings.
 * **Monospace:** Fixed-width fonts (e.g., Courier). Common in code editors or for a retro vibe
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/typography - font type.png" alt=""><figcaption><p>Font Type</p></figcaption></figure>
 
 #### Typographic Hierarchy: The visual arrangement of text to show importance
 
@@ -30,7 +30,7 @@ From the boldness of a headline to the subtlety of body text, typography influen
 * **Body Text:** Smaller, regular fonts for main content.
 * **Captions:** Even smaller text for secondary information.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/typography - font hierachy.png" alt=""><figcaption><p>Font Heirachy</p></figcaption></figure>
 
 #### Kerning, Leading, and Tracking
 
@@ -73,7 +73,7 @@ Stick to 1-2 typefaces across the design to maintain a cohesive look. Use differ
 
 Proper line height improves readability. A general guideline is to set line height at 1.5 times the font size. For example, a 16px font size would have a line height of 24px.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/typography - line height &#x26; spacing.png" alt=""><figcaption><p>Font Height</p></figcaption></figure>
 
 #### 6. **Alignment and White Space**
 

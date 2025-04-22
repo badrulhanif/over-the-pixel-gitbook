@@ -35,13 +35,13 @@ Columns divide the page vertically, while gutters are the spaces between columns
 
 Margins are the spaces outside elements, and padding is the space inside elements, between content and borders.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/layout &#x26; spacing - margin &#x26; padding.png" alt=""><figcaption><p>Margin &#x26; Padding</p></figcaption></figure>
 
 ### Grid Systems
 
 A grid system is a framework of intersecting horizontal and vertical lines that helps organize content, ensuring alignment, consistency, and visual harmony. It serves as a guide for placing elements in a design, making interfaces more predictable and easier to navigate.​
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/layout &#x26; spacing - grid systems.png" alt=""><figcaption><p>Grid System</p></figcaption></figure>
 
 #### 4-Point Grid
 

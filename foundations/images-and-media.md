@@ -6,7 +6,7 @@ icon: swatchbook
 
 To guide designers in making better choices, we follow a set of principles — rules and best practices that help create meaningful, usable experiences.
 
-<figure><img src="../.gitbook/assets/principle of good design.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/principle of good design.png" alt=""><figcaption><p>Principles of Good Design</p></figcaption></figure>
 
 ### Key Principles of Good Design
 

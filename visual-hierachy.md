@@ -6,7 +6,7 @@ icon: layer-group
 
 Visual hierarchy is the arrangement and presentation of elements in a way that implies importance. It guides the viewer’s attention through a design, showing them what to look at first, second, third, and so on.
 
-<figure><img src=".gitbook/assets/visual hierachy - general.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/visual hierachy - general.png" alt=""><figcaption><p>Visual Hierachy</p></figcaption></figure>
 
 Good visual hierarchy makes information easy to scan, understand, and act upon — whether it's a website, poster, or product interface.
 
@@ -87,10 +87,10 @@ Position images near key messages for emphasis.
 
 Lorem ipsum
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 2</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 3</p></figcaption></figure>
 
 Lorem ipsum

@@ -6,7 +6,7 @@ icon: lightbulb
 
 Design Thinking is a user-centered process for understanding problems, imagining solutions, and testing ideas.
 
-<figure><img src="../.gitbook/assets/design thinking.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/design thinking.png" alt=""><figcaption><p>Design Thinking</p></figcaption></figure>
 
 It’s about seeing the world through the eyes of the people you’re designing for.
 

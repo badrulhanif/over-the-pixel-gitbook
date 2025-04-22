@@ -29,9 +29,9 @@ A circular diagram organizing colors to show relationships
 * **Warm colors (reds, oranges, yellows): F**eel energetic or inviting.
 * **Cool colors (blues, greens, purples):** Feel calm or professional.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/color theory - warm color.png" alt=""><figcaption><p>Warm Color</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/color theory - cool color.png" alt=""><figcaption><p>Cool Color</p></figcaption></figure>
 
 ### Principles
 
@@ -44,9 +44,9 @@ A circular diagram organizing colors to show relationships
 3. **Hierarchy:** Using color to guide attention, like bright colors for CTAs and muted tones for backgrounds.
 4. **Consistency:** Limiting the palette to 2-3 primary colors to maintain a cohesive look.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/color theory - color harmonies.png" alt=""><figcaption><p>Color Harmonies</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/color theory - contrast WCAG.png" alt=""><figcaption><p>Color Contrast WCAG</p></figcaption></figure>
 
 ### Color Psychology in UI/UX
 
