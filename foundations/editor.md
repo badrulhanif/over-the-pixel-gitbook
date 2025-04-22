@@ -6,7 +6,7 @@ icon: compass-drafting
 
 If you're new to design, you’ve probably heard the terms UI and UX thrown around together. Some people use them interchangeably — but they’re not the same thing. In fact, understanding the difference between UI and UX is one of the first steps in becoming a thoughtful designer.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/uiux.png" alt=""><figcaption></figcaption></figure>
 
 ### What’s the Difference?
 
