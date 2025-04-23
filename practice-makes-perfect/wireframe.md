@@ -8,7 +8,7 @@ Wireframes are low-fidelity visual blueprints of a user interface, outlining the
 
 It serve as a critical bridge between conceptual planning (e.g., sitemaps and user flows) and high-fidelity design, enabling designers to test ideas, align stakeholders, and refine usability early in the process.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wireframe - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Create Low-Fidelity Wireframes
 

@@ -8,7 +8,7 @@ Localisation is the process of adapting a product’s content, layout, language,
 
 It’s not just about translating words — it’s about ensuring your product feels natural, familiar, and usable for people from different regions, cultures, and backgrounds.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/localisation - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Localisation vs Internationalisation
 

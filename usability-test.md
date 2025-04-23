@@ -8,7 +8,7 @@ icon: user-check
 
 > It’s one of the most effective ways to ensure that a product is easy, efficient, and satisfying to use.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/usability testing - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Why is Usability Testing Important?
 

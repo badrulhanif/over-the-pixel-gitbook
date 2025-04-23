@@ -17,7 +17,7 @@ By integrating accessibility into sitemaps, user flows, wireframes, components, 
 * Accessible designs are often clearer, simpler, and more user-friendly — benefiting people without disabilities too.
 * Helps meet legal and ethical standards (like WCAG and ADA guidelines).
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/design for accessability - _.png" alt=""><figcaption></figcaption></figure>
 
 ### Key Principles of Accessible Design
 

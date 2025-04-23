@@ -6,7 +6,7 @@ icon: reflect-horizontal
 
 Motion Design is the use of movement and animation to enhance the user experience in digital products. It brings interfaces to life, providing users with visual cues, transitions, feedback, and storytelling through carefully considered motion.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/motion design - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Why Motion Design?
 

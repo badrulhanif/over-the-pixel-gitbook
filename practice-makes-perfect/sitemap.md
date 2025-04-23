@@ -6,7 +6,7 @@ icon: sitemap
 
 A visual or structured representation of a website's content hierarchy. It outlines how different pages and sections interconnect, serving as a blueprint for both designers and developers. It is essential for planning intuitive navigation and ensuring a seamless user experience.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sitemap - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Components of Sitemap
 

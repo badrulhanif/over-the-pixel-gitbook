@@ -6,7 +6,7 @@ icon: display-code
 
 Responsive Design is the practice of designing and building digital products that adapt to different screen sizes, resolutions, and devices — ensuring a seamless, consistent user experience whether on a desktop, tablet, or smartphone.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/responsive design - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Why is Responsive Design Important?
 

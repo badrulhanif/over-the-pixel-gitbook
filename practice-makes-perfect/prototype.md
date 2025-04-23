@@ -6,7 +6,7 @@ icon: cards-blank
 
 Prototypes are interactive mockups of a user interface that simulate functionality and user interactions, bridging the gap between static wireframes and final development.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/prototype - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Why need prototype?
 

@@ -8,7 +8,7 @@ Components are reusable, modular building blocks of a user interface, such as bu
 
 They serve as the foundation for scalable design systems, reducing redundancy and facilitating collaboration between designers and developers.
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/components - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Why need components?
 

@@ -10,7 +10,7 @@ By delineating each step, decision, and outcome, user flows enable designers to 
 
 ### Components of a User Flow
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/user flow - example of user flow.png" alt=""><figcaption></figcaption></figure>
 
 | Component      | Description                          | Example                              | Design Consideration                  |
 | -------------- | ------------------------------------ | ------------------------------------ | ------------------------------------- |
@@ -21,7 +21,7 @@ By delineating each step, decision, and outcome, user flows enable designers to 
 
 ### Example - E-commerce Checkout Flow
 
-<figure><img src="../.gitbook/assets/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/user flow - example of ecommerce flow.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Keep it simple. Avoid unnecessary complexity to enhance usability.

@@ -6,7 +6,7 @@ icon: atom-simple
 
 Atomic Design is a methodology for creating modular, scalable design systems by breaking down user interfaces into smaller, reusable pieces, organized hierarchically.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/atomic design - general.png" alt=""><figcaption></figcaption></figure>
 
 ### Atomic Design Level
 
