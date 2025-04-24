@@ -15,7 +15,7 @@
 
 ***
 
-* [Visual Hierachy](visual-hierachy.md)
+* [Visual Hierarchy](visual-hierarchy.md)
 * [Color Theory](color-theory.md)
 * [Typography](typography.md)
 * [Layout & Spacing](layout-and-spacing.md)

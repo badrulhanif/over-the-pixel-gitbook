@@ -2,15 +2,15 @@
 icon: layer-group
 ---
 
-# Visual Hierachy
+# Visual Hierarchy
 
 Visual hierarchy is the arrangement and presentation of elements in a way that implies importance. It guides the viewer’s attention through a design, showing them what to look at first, second, third, and so on.
 
-<figure><img src=".gitbook/assets/visual hierachy - general.png" alt=""><figcaption><p>Visual Hierachy</p></figcaption></figure>
+<figure><img src=".gitbook/assets/visual hierachy - general.png" alt=""><figcaption><p>Visual Hierarchy</p></figcaption></figure>
 
 Good visual hierarchy makes information easy to scan, understand, and act upon — whether it's a website, poster, or product interface.
 
-### Visual Hierachy Principles
+### Visual Hierarchy Principles
 
 * Size
 * Color
@@ -20,7 +20,7 @@ Good visual hierarchy makes information easy to scan, understand, and act upon �
 * Typography
 * Imagery
 
-### Key Technique to Create Visual Hierachy
+### Key Technique to Create Visual Hierarchy
 
 {% stepper %}
 {% step %}
@@ -85,12 +85,12 @@ Position images near key messages for emphasis.
 | Background Image      | Supporting Visual               | Subtle, low-contrast background image      |
 | Small disclaimer text | Least Important                 | Small, light gray text at the bottom       |
 
-Lorem ipsum
+Users expect important content to be placed in familiar spots: for example, top-left for headlines or a central position for key CTAs. Consistency in positioning across a design reinforces the flow, allowing users to naturally move from the most important information to the least.
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/visual hierachy - example 1.png" alt=""><figcaption><p>Visual Hierarchy Example 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/visual hierachy - example 2.png" alt=""><figcaption><p>Visual Hierarchy Example 2</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/quickstart-import.png" alt=""><figcaption><p>Visual Hierachy Example 3</p></figcaption></figure>
+<figure><img src=".gitbook/assets/visual hierachy - example 3.png" alt=""><figcaption><p>Visual Hierarchy Example 3</p></figcaption></figure>
 
-Lorem ipsum
+> Balancing these elements effectively is crucial to avoid overwhelming the viewer or creating confusion.
