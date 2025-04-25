@@ -23,6 +23,10 @@ By delineating each step, decision, and outcome, user flows enable designers to 
 
 <figure><img src="../.gitbook/assets/user flow - example of ecommerce flow.png" alt=""><figcaption></figcaption></figure>
 
+#### View Figma Example
+
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=1-11&t=nnooqQ27UcNJHl9c-4" %}
+
 {% hint style="info" %}
 Keep it simple. Avoid unnecessary complexity to enhance usability.
 {% endhint %}

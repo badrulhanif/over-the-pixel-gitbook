@@ -46,3 +46,7 @@ Prototypes clarify functionality, animations, and interactions, reducing miscomm
 | Used for testing ideas         | Used to test market demand   |
 | Fast to build, often throwaway | Slow to build, public-facing |
 | Using design tools             | Using code                   |
+
+#### View Figma Example
+
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=6-70&t=nnooqQ27UcNJHl9c-4" %}

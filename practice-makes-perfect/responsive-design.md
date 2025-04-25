@@ -68,3 +68,7 @@ Minimize heavy assets and use techniques like lazy-loading images to enhance spe
 | 481px–768px  | Medium      | Tablets                 | Two-column grid, compact navigation |
 | 769px–1024px | Large       | Small Desktops, Laptops | Three-column grid, sidebar visible  |
 | 1025px+      | Extra Large | Desktops                | Multi-column, full navigation       |
+
+#### View Figma Example
+
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=6-71&t=nnooqQ27UcNJHl9c-4" %}

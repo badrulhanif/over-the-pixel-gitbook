@@ -33,6 +33,10 @@ They serve as the foundation for scalable design systems, reducing redundancy an
 | Tooltip       | Offers brief information when hovering over an element.                                                              |
 | Progress Bar  | Visually represents the completion status of a task.                                                                 |
 
+#### VIew Figma Example
+
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=3-1302&t=nnooqQ27UcNJHl9c-4" %}
+
 {% hint style="info" %}
 To learn more about advanced components, you can check out [Atomic Design](../level-up/interactive-blocks.md)
 {% endhint %}

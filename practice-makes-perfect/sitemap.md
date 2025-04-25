@@ -17,7 +17,9 @@ A visual or structured representation of a website's content hierarchy. It outli
 | Global Navigation | Site-wide links                    | Navbar with Home, Shop | Always accessible      |
 | Local Navigation  | Section-specific links             | Sidebar in Shop        | Contextually relevant  |
 
+#### View Figma Example
 
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=3-107&t=nnooqQ27UcNJHl9c-4" %}
 
 {% hint style="info" %}
 * Design the sitemap to reflect user needs and logical navigation paths.

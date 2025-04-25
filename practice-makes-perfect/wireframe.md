@@ -63,3 +63,7 @@ Share the wireframe with team members and stakeholders to gather feedback. Use t
 | Definition | A skeletal framework focusing on layout and functionality | A detailed visual representation showcasing design elements      |
 | Fidelity   | Low-fidelity: simple, often grayscale, with placeholders  | High-fidelity: includes colors, typography, images               |
 | Purpose    | To plan structure and user flow without distractions      | To present the visual design and aesthetics of the final product |
+
+#### View Figma Example
+
+{% embed url="https://www.figma.com/design/AtGY920SHvhi0KBeOyM18X/Over-The-Pixel---Practice-Makes-Perfect?node-id=6-69&t=nnooqQ27UcNJHl9c-4" %}
