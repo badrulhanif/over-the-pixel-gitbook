@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/hero.png
+cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
   cover:
@@ -32,7 +32,7 @@ So go ahead—take your first step over the pixel. There's a whole design world 
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Your first step into design</td><td><a href=".gitbook/assets/quickstart - uiux.png">quickstart - uiux.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Foundations</strong></td><td>Learn the basics of UI/UX</td><td><a href=".gitbook/assets/uiux.png">uiux.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Develop Your Portfolio</strong></td><td>Showcase your case study</td><td><a href=".gitbook/assets/building portfolio.png">building portfolio.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Your first step into design</td><td><a href=".gitbook/assets/quickstart - uiux.png">quickstart - uiux.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Foundations</strong></td><td>Learn the basics of UI/UX</td><td><a href=".gitbook/assets/uiux.png">uiux.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Develop Your Portfolio</strong></td><td>Showcase your case study</td><td><a href=".gitbook/assets/building portfolio (1).png">building portfolio (1).png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 #### Let's Connect!
